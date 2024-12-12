@@ -18,22 +18,5 @@ This website is designed to:
 - Offer access to valuable resources such as IEEE publications and technical magazines.
 - Serve as a hub for collaboration between members and societies.
 
-## How to Contribute
-
-We welcome contributions to improve this website! Whether you’re fixing bugs, adding new features, or improving documentation, your contributions will help us create a better experience for our members.
-
-### Steps to Contribute:
-1. Fork the repository.
-2. Create a new branch for your feature or bug fix.
-3. Commit your changes.
-4. Open a pull request to the main branch.
-
-Please make sure your code follows best practices and is well-documented. 
-
-## Contact Us
-
-For any questions, suggestions, or issues, feel free to reach out to the IEEE-TCET core committee at [email@example.com].
-
----
 
 Join us today and be a part of a global network of technocrats striving for technological excellence for humanity!
